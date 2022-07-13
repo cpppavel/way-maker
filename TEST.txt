@@ -9,6 +9,6 @@ Korrekte Situationen:
 9.Eingangsdatei hat größe Zahlen (FeldSize=100) 		//das Programm gibt ein richtiges Ergebnis
 10.Eingangsdatei ist leer					//das Programm wird korrekt beendet
 Nicht korrekte Situationen:
-1.Eingangsdatei hat sehr größe Zahlen (FeldSize=1000)		//das Programm gibt ein richtiges Ergebnis nur in der Datei (Wahrscheinlich kann man fixen)
-2.Eingangsdatei hat Buchstaben					//das Programm hängt (Kann man fixen)
-3.Eingagsdatei hat nicht genug Daten				//das Programm hängt (Kann man fixen)
+1.Eingangsdatei hat sehr größe Zahlen (FeldSize=1000)		//das Programm gibt ein richtiges Ergebnis nur in der Datei
+2.Eingangsdatei hat Buchstaben					//das Programm hängt
+3.Eingagsdatei hat nicht genug Daten				//das Programm hängt
